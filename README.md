@@ -1,0 +1,2 @@
+# HWID
+BLB_HWID
